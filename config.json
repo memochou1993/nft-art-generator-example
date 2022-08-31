@@ -7,9 +7,9 @@
   "useCustomNames": 0,
   "deleteDuplicates": true,
   "generateMetadata": true,
-  "basePath": "/Users/memochou/Projects/nft-art-generator-example/images/",
-  "outputPath": "/Users/memochou/Projects/nft-art-generator-example/output/",
-  "imageUrl": "/",
+  "basePath": "/Users/memochou/Projects/nft-leopard-cat-images/images/",
+  "outputPath": "/Users/memochou/Projects/nft-leopard-cat-images/output/",
+  "imageUrl": "https://raw.githubusercontent.com/memochou1993/nft-leopard-cat-images/main/output/",
   "order": [
     0,
     4,
